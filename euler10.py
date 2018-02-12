@@ -7,8 +7,6 @@ def is_prime(n):
             return False
     return True
 
-
-
 i=1
 s=0
 for i in range(1,2000000):
